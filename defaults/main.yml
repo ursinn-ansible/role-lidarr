@@ -1,0 +1,10 @@
+---
+role_lidarr_image: 'lscr.io/linuxserver/lidarr'
+role_lidarr_container: 'lidarr'
+role_lidarr_puid: '1000'
+role_lidarr_pgid: '1000'
+role_lidarr_tz: 'Europe/Zurich'
+role_lidarr_dir: '/opt/app-lidarr'
+role_lidarr_network: 'app-network'
+
+role_lidarr_media_dir: '/opt/media'
